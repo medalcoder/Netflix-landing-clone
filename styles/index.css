@@ -1,0 +1,18 @@
+body {
+    background-color: #000000;
+    color: #FFFBF1;
+    font-family: "Netflix Sans", "Helvetica Neue", "Segoe UI", Roboto, Ubuntu, sans-serif
+}
+
+#header {
+    background-image: url("../images/images.jpg")";
+}
+
+#nav {
+
+}
+
+#landing {
+    text-align: center;
+    padding: 48px;
+}
